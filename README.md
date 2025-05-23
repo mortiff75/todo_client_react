@@ -44,8 +44,8 @@ for each side:
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,prisma,mysql,nodejs,npm,materialui,express&)](https://skillicons.dev)
-
+<div align=center>[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,prisma,mysql,nodejs,npm,materialui,express&)](https://skillicons.dev)
+</div>
 ## Features
 
 - Mongodb Database
