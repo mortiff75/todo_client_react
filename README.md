@@ -29,7 +29,7 @@ Install my-project with yarn
 Clone the project
 
 ```bash
-  git clone https://github.com/mortiff75/real_state.git
+  git clone https://github.com/mortiff75/todo_client_react.git
 ```
 
 Go to the project directory
@@ -39,19 +39,6 @@ Go to the project directory
 ```
 
 ### that will be start with wbpack-dev-sever
-
-Install dependencies
-
-```bash
-  yarn add
-```
-
-Start the api/app.js
-
-```bash
-for each side:
-  npm run dev
-```
 
 ## 🛠 Skills
 
