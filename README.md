@@ -51,3 +51,4 @@ Go to the project directory
 - Context State
 - Full Responsive
 - Dark and Light Mode
+- Full Pagination 😎
