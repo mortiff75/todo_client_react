@@ -44,8 +44,7 @@ for each side:
 
 
 ## 🛠 Skills
-![App Screenshot](https://i.ytimg.com/vi/HFj5FMb0jwY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCqhaTIsLlqTvH46Hz00cEIafSfvw)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,prisma,mysql,nodejs,npm,materialui,express&)](https://skillicons.dev)
 
 ## Features
 
